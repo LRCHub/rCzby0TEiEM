@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "楽園図 - Rose ver. -",
+  "base_artist": "霜月はるか",
+  "createdAt": "2026-02-07T14:36:28.776799Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "楽園図",
+      "artist": "Mitsuki Nakae",
+      "has_synced": true,
+      "path": "select/01_楽園図_Mitsuki_Nakae.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "楽園図 - Rose ver. -",
+      "artist": "霜月はるか",
+      "has_synced": false,
+      "path": "select/pl_01_楽園図_-_Rose_ver._-_霜月はるか.txt"
+    }
+  ]
+}
